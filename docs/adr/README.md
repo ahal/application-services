@@ -8,6 +8,7 @@ This log lists the architectural decisions for MADR.
 - [ADR-0001](0001-update-logins-api.md) - Update Logins API
 - [ADR-0002](0002-database-corruption.md) - Handling Database Corruption
 - [ADR-0003](0003-swift-packaging.md) - Distributing Swift Packages
+- [ADR-0004](0004-bundling-experiments.md) - Bundling experiments with the application
 
 <!-- adrlogstop -->
 
